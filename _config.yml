@@ -1,10 +1,9 @@
-name: Adarsh Srivastava
+name: .log
 description: >
-    I am Adarsh Srivastava, and this is .log - where I write about whatever I am currently working on.
-
+    Adarsh Srivastava's blog
+    
 about: >
-    I am senior CS undergrad at BITS Pilani, currently interning at paypal. There are several links at the bottom of this page to help you know more about me. You can contact me on adarsh0112@gmail.com
-
+    I am senior CS undergrad at BITS Pilani, currently interning at PayPal. I write here about whatever I am currently working on. To know more about me:
 master_repo: false
 url: "adarsh0112.github.io"
 markdown: kramdown
@@ -19,7 +18,7 @@ disqus_shortname:
 
 rtl: false
 owner:
-  name:           Adarsh
+  name:           Adarsh Srivastava
   avatar:         "https://avatars2.githubusercontent.com/u/8530512?s=400&u=b5ddb96f73e76a0fe3ba049992a756d2f6c7b6b5&v=4"
   email:          "adarsh0112@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
