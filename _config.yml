@@ -1,0 +1,38 @@
+name: Adarsh Srivastava
+description: >
+    I am Adarsh Srivastava, and this is .log - where I write about whatever I am currently working on.
+
+about: >
+    I am senior CS undergrad at BITS Pilani, currently interning at paypal. There are several links at the bottom of this page to help you know more about me. You can contact me on adarsh0112@gmail.com
+
+master_repo: false
+url: "adarsh0112.github.io"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+
+logo:             logo.png
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           Adarsh
+  avatar:         "https://avatars2.githubusercontent.com/u/8530512?s=400&u=b5ddb96f73e76a0fe3ba049992a756d2f6c7b6b5&v=4"
+  email:          "adarsh0112@gmail.com"
+  # Social networking links used in footer. Update and remove as you like.
+  facebook: adarsh0112
+  twitter: adarshs_
+  github: https://github.com/adarsh0112
+  stackexchange:
+  linkedin: https://www.linkedin.com/in/adarsh0112
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
