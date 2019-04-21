@@ -53,6 +53,8 @@ nav:
     url:            "/tags"
   - name:           "books"
     url:            "https://www.goodreads.com/adarsh0112"
+  - name:           "resumé"
+    url:            "/assets/docs/Resume_Adarsh_Latest.pdf"
 
 # Sass
 sass:
