@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Adarsh Srivastava's Blog</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;You’ve reached the beginning of my blog. Thanks for coming so far. :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2019-04-21/init/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-04-21/init/</guid>
+      </item>
+    
+  </channel>
+</rss>
