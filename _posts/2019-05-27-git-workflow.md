@@ -207,3 +207,74 @@ Go to the branch named "master" in my repository, grab all the commits, and then
 By specifying master as the "place" argument, we told git where the commits will come from and where the commits will go. It's essentially the "place" or "location" to synchronize between the two repositories.
 
 Keep in mind that since we told git everything it needs to know (by specifying both arguments), it totally ignores where we are checked out!
+
+## --fixup and --autosquash
+
+Ever had to make a super tiny change - a typo or a variable name change when cleaning up your work? I usually used to end up doing the whole committing + rebasing + repositioning the commit. Git has a shortcut for that:
+
+```bash
+git commit --fixup 3495206b #<--The commit you want to modify. This could be a relative ref too. :)
+git rebase -i --autosquash HEAD~n # where n is the number of commits you want to go back. Could just be the SHA of the commit previous to 3495206b
+
+```
+
+And that's it. the `--autosquash` option will position the new commit in the right place. You just have to save and exit (`:wq`).
+
+## stash 
+
+To demonstrate, you’ll go into your project and start working on a couple of files and possibly stage one of the changes. If you run `git status`, you can see your dirty state:
+
+```bash
+$ git status
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#      modified:   index.html
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#
+#      modified:   lib/simplegit.rb
+#
+```
+
+Now you want to switch branches, but you don’t want to commit what you’ve been working on yet; so you’ll stash the changes. To push a new stash onto your stack, run `git stash`:
+
+```bash
+$ git stash
+Saved working directory and index state \
+  "WIP on master: 049d078 added the index file"
+HEAD is now at 049d078 added the index file
+(To restore them type "git stash apply")
+```
+
+Your working directory is clean:
+
+```bash
+$ git status
+# On branch master
+nothing to commit, working directory clean
+```
+
+At this point, you can easily switch branches and do work elsewhere; your changes are stored on your stack. To see which stashes you’ve stored, you can use `git stash list`:
+
+```bash
+$ git stash list
+stash@{0}: WIP on master: 049d078 added the index file
+stash@{1}: WIP on master: c264051 Revert "added file_size"
+stash@{2}: WIP on master: 21d80a5 added number to log
+```
+
+In this case, two stashes were done previously, so you have access to three different stashed works. You can reapply the one you just stashed by using the command shown in the help output of the original stash command: `git stash apply`. If you want to apply one of the older stashes, you can specify it by naming it, like this: `git stash apply stash@{2}`. If you don’t specify a stash, Git assumes the most recent stash and tries to apply it:
+
+```bash
+$ git stash apply
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#
+#      modified:   index.html
+#      modified:   lib/simplegit.rb
+#
+```
