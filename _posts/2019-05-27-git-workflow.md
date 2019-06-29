@@ -220,7 +220,7 @@ git rebase -i --autosquash HEAD~n # where n is the number of commits you want to
 
 And that's it. the `--autosquash` option will position the new commit in the right place. You just have to save and exit (`:wq`).
 
-## stash 
+## stash
 
 To demonstrate, you’ll go into your project and start working on a couple of files and possibly stage one of the changes. If you run `git status`, you can see your dirty state:
 
@@ -278,3 +278,18 @@ $ git stash apply
 #      modified:   lib/simplegit.rb
 #
 ```
+
+## log
+
+For short and sweet logs:
+
+```bash
+git log --pretty=oneline --abbrev-commit -n 5
+```
+
+For longer versions:
+
+```bash
+git log -n 5
+```
+
