@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Hi!
+title: Hi! 👋
 permalink: /about
 ---
 
-I am a software engineer living in Chennai, India and this is my blog. I try to write on a variety of topics - food, books, tech - but mostly about whatever it is that I am learning currently.
+I am a software engineer at PayPal India and this is my blog. I write here on whatever is my current focus in life - food, books, tech - or about whatever it is that I am learning currently.
 
-Want to get in touch? Feel free to use any of the buttons below to reach out to me :)
+Want to get in touch? Feel free to use any of the buttons below to reach out to me 🍻
