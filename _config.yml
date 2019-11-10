@@ -10,7 +10,7 @@ author:
   twitter:          adarshs_
   github:           adarsh0112
   linkedin:         adarsh0112
-  email:            adarsh0112@gmail.com
+  email:            adarsh@adarshs.dev
 
 copyright:
   year:             2019
@@ -81,5 +81,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-admin
+  - jemoji
 
 exclude:            [vendor]
