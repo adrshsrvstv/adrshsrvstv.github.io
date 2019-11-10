@@ -58,6 +58,10 @@
     <a href="https://{{ site.author.tumblr }}.tumblr.com"><i class="fa fa-tumblr" aria-hidden="true"></i></a>
     {% endif %}
 
+    {% if site.author.goodreads %}
+    <a href="https://www.goodreads.com/{{ site.author.goodreads }}"><i class="fab fa-goodreads" aria-hidden="true"></i></a>
+    {% endif %}
+
     {% if site.author.email %}
     <a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     {% endif %}

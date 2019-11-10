@@ -11,6 +11,7 @@ author:
   github:           adarsh0112
   linkedin:         adarsh0112
   email:            adarsh@adarshs.dev
+  goodreads:        adarsh0112
 
 copyright:
   year:             2019
@@ -53,8 +54,6 @@ nav:
     url:            "/tags"
   - name:           "Projects"
     url:            "/projects"
-  - name:           "books"
-    url:            "https://www.goodreads.com/adarsh0112"
   - name:           "resumé"
     url:            "/assets/docs/Resume_Adarsh_Latest.pdf"
 
