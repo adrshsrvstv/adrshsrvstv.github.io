@@ -51,6 +51,8 @@ nav:
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
+  - name:           "Projects"
+    url:            "/projects"
   - name:           "books"
     url:            "https://www.goodreads.com/adarsh0112"
   - name:           "resumé"
