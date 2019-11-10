@@ -5,7 +5,9 @@
 # Basic
 name:               "Adarsh Srivastava's Blog"
 
-author:
+description:        "Adarsh Srivastava's personal blog and portfolio."
+
+author:             
 #  facebook:         adarsh0112
 #  twitter:          adarshs_
   github:           adarsh0112
@@ -21,6 +23,9 @@ copyright:
 google-analytics:
   id:               "UA-138767520-2"
 
+google_site_verification: "sf3_hCQjOCI7VfUHF6a5NZOZceWsoOpZypi7Mntj7II"
+
+lang:               "en_US"
 # Disqus
 # disqus:
 #   id:               "kiko-plus"
