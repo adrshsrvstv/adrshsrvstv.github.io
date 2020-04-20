@@ -60,7 +60,7 @@ nav:
   - name:           "Projects"
     url:            "/projects"
   - name:           "resumé"
-    url:            "/assets/docs/Resume_Adarsh_Latest.pdf"
+    url:            "/assets/docs/resume.pdf"
 
 # Sass
 sass:
