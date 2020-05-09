@@ -61,6 +61,8 @@ nav:
     url:            "/projects"
   - name:           "resumé"
     url:            "/assets/docs/resume.pdf"
+  - name:           "books"
+    url:            "https://www.goodreads.com/adarshsrivastava"
 
 # Sass
 sass:
