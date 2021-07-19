@@ -31,7 +31,7 @@ Having briefly considered going to the reception in pajamas (even joggers feel t
 
 Regular fit, and make it a bit extra regular please?
 
-I hated the whole process, but ordered a jeans whose fit and size I would never have gotten back in 2019. *It's just a stopgap for the next 6 months*, I tell myself, *before I would be back to my previous self, and maybe even better. Maybe I'll even have abs after this.*
+I hated the whole process, but ordered a jeans whose fit and size I would never have purchased back in 2019. *It's just a stopgap for the next 6 months*, I tell myself, *before I would be back to my previous self, and maybe even better. Maybe I'll even have abs after this.*
 
 Yeah, I like that idea. You know what, I'll have abs once this plague is over. I'll be guzzling down protein shakes and doing deadlifts in the gym like there's no tomorrow, and I'll have abs. 
 
