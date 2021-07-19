@@ -12,14 +12,14 @@ share: true
 
 10 AM - time for me to go from my bed to my chair a few feet away - a.k.a. *going to work* in 2021. Brushing and washing can be on hold, just like our lives have been for a year and a half. 
 
-10 minutes into me checking my mails and slack messages, my mom enters my room to make a royal decree - a wedding reception for a close family member, long delayed due to lockdowns, is being held this weekend. The entire Srivastava family is to go. 
+10 minutes into me checking my mails and slack messages, my mom enters my room to make a royal decree - a wedding reception for a close family member, long delayed due to lockdowns, is being held this weekend. The entire Srivastava family is to attend. 
 
 
 W h a t .
 
-My mind immediately goes to the image of Indian wedding receptions as I knew them - crowds without masks, tons of bling, and unhealthy food. I've already started feeling queasy, but wait, there's another problem.
+My mind immediately went to the image of Indian wedding receptions as I knew them - crowds without masks, tons of bling, nosy relatives, and unhealthy food. I've already started feeling queasy, but wait, there's another problem.
 
-I dig up my suitcase buried in our garden and take out the 3 pairs of jeans I owned from before the apocalypse. I don't even need to try them on to know that none of them will fit anymore.
+I dig up my suitcase buried behind our house and take out the 3 pairs of jeans I owned from before the apocalypse. I don't even need to try them on to know that none of them will fit anymore.
 
 Having briefly considered going to the reception in pajamas (even joggers feel too suave to me now), I log in to Myntra to find the cheapest pair of Levi's that can be delivered in time. 
 
