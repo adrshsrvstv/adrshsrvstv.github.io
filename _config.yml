@@ -10,10 +10,10 @@ description:        "Adarsh Srivastava's personal blog and portfolio."
 author:             
 #  facebook:         adarsh0112
 #  twitter:          adarshs_
-  github:           adarsh0112
-  linkedin:         adarsh0112
+  github:           adrshsrvstv
+  linkedin:         adrshsrvstv
   email:            adarsh@adarshs.dev
-  goodreads:        adarshsrivastava
+  goodreads:        adrshsrvstv
 
 copyright:
   year:             2020
@@ -62,7 +62,7 @@ nav:
   - name:           "resumé"
     url:            "/assets/docs/resume.pdf"
   - name:           "books"
-    url:            "https://www.goodreads.com/adarshsrivastava"
+    url:            "https://www.goodreads.com/adrshsrvstv"
 
 # Sass
 sass:
