@@ -9,19 +9,19 @@ description:        "Adarsh Srivastava's personal blog and portfolio."
 
 author:             
 #  facebook:         adarsh0112
-#  twitter:          adarshs_
+  twitter:          adrshsrvstv
   github:           adrshsrvstv
   linkedin:         adrshsrvstv
-  email:            hi@adrshsrvstv.com
   goodreads:        adrshsrvstv
-
+  email:            hi@adrshsrvstv.com
+  
 copyright:
-  year:             2020
+  year:             2021
   name:             Adarsh Srivastava
 
 # Google-analytics
 google-analytics:
-  id:               "UA-138767520-2"
+  id:               "G-H5N2G7GVXZ"
 
 google_site_verification: "sf3_hCQjOCI7VfUHF6a5NZOZceWsoOpZypi7Mntj7II"
 
