@@ -40,7 +40,7 @@ I came back from Kuari Pass just a week ago, after a whole year of burnout, isol
 
 > In order to understand the world, one has to turn away from it on occasion.
 
-I am guilty of having used travel to run away from things in my life, so for a few years I was wary of letting trekking become an escape route. I am wiser now, and I realize treks make excellent pit stops for me personally. They break up all structure in your life so starkly that you are left with nothing to hide behind - you can’t read news, check your mail, grab a smoke, binge on Netflix, binge read books, scroll through Instagram, surf reddit, switch on the hotel TV, or indulge in whatever your drug of choice is. Treks let you run away from your life for a bit, but not from yourself.
+I am guilty of having used travel to run away from things in my life, so for a few years I was wary of letting trekking become an escape route. I am wiser now, and I realize treks make excellent pit stops for me. They break up all structure in your life so starkly that you are left with nothing to hide behind - you can’t read news, check your mail, grab a smoke, binge on Netflix, binge read books, scroll through Instagram, surf reddit, switch on the hotel TV, or indulge in whatever your drug of choice is. Treks let you run away from your life for a bit, but not from yourself.
 
 ![Walking on a ridge through wind and snow on the Kuari Pass Trek.](/assets/IMG_1552.jpg "Walking on a ridge through wind and snow on the Kuari Pass Trek.")
 
@@ -60,7 +60,7 @@ My words won’t do justice here - I’ll leave you with a bunch of photos and v
 
 --------------------------
 
-This is an of the night sky on a Rupin Pass campsite. The sky didn’t look exactly like this - the Milky Way was much fainter - but it was still the most star filled sky I had ever seen!
+This is a photo of the night sky on a Rupin Pass campsite. The sky didn’t look exactly like this - the Milky Way was much fainter - but it was still the most star filled sky I had ever seen!
 
 ![A starry October sky seen from the Rupin Pass Trail](/assets/IMG_2080.jpg "Who cares if one more light goes out? Well I do.")
 
