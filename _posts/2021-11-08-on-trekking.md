@@ -42,7 +42,7 @@ I came back from Kuari Pass just a week ago, after a whole year of burnout, isol
 
 I am guilty of having used travel to run away from things in my life, so for a few years I was wary of letting trekking become an escape route. I am wiser now, and I realize treks make excellent pit stops for me personally. They break up all structure in your life so starkly that you are left with nothing to hide behind - you can’t read news, check your mail, grab a smoke, binge on Netflix, binge read books, scroll through Instagram, surf reddit, switch on the hotel TV, or indulge in whatever your drug of choice is. Treks let you run away from your life for a bit, but not from yourself.
 
-![Trekkers heading out for Roopkund summit at 3AM on a full moon night](/assets/DSC00033-2.jpg "Trekkers heading out for Roopkund summit at 3AM on a full moon night")
+![Walking on a ridge through wind and snow on the Kuari Pass Trek.](/assets/IMG_1552.jpg "Walking on a ridge through wind and snow on the Kuari Pass Trek.")
 
 Everytime I have come back from a long trek, I have in some way re-examined my life and made changes to it. Coming back home, I’ve taken a long enough break from my life to view things with a fresh set of eyes, and suddenly things look not as impossible as they seemed before. Running away from things is just what I’ve needed at times.
 
