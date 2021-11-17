@@ -12,7 +12,7 @@ share: true
 
 I did my first real himalayan hike (abeit a very short one) on 31st December 2016, and since then, I have been wanting to put into words how I feel about it. I got into trekking around the same time that I was getting into long distance running and meditation, and my feelings about all three are mingled in some ways to this day. For now though, I want to talk about just trekking - the multi-day, high-altitude, camping-out, no-signal-for-days kind.
 
-My first trek was a lucky accident - on a trip to Sikkim, I had to overhaul my itinerary and ended up at a village called Yakten, in East Sikkim. Yakten had a small hour long hike called Jhandi Dara that could be done at 5AM to watch the sun rising on the Kanchenjunga. I reached the view point in pitch dark, and saw the first sunrays forming a red circle on the east face of the mountain;  it would slowly grow bigger, brighter, change colors and consume the nearby peaks too. Below is a shot I took on my phone a couple of minutes after sunrise:
+My first trek was a lucky accident - on a trip to Sikkim, I had to overhaul my itinerary and ended up at a village called Yakten, in East Sikkim. Yakten had a small hour long hike called Jhandi Dara that could be done at 5AM to watch the sun rising on the Kanchenjunga. I reached the view point in pitch dark and saw the first sunrays forming a red circle on the east face of the mountain;  it would slowly grow bigger, brighter, change colors and consume the nearby peaks too. Below is a shot I took on my phone a couple of minutes after sunrise:
 
 ![The middle peak is the Kanchenjunga](/assets/Screenshot%202021-11-08%20at%2010.57.41%20PM.png "The middle peak is the Kanchenjunga")
 
@@ -26,7 +26,7 @@ In the 5 years since then, I’ve done a lot of short hikes, and three major hig
 >
 > Albert Camus, Return To Tipasa
 
-I came back from Kuari Pass just a week ago, after a whole year of burnout, isolation, and physical, emotional & spiritual exhaustion. [There’s something about nature](https://greatergood.berkeley.edu/article/item/how_nature_helps_us_heal), combined with the sheer amount and duration of physical exertion on a trek, that somehow thaws long frozen corners of our hearts. One of the first things I noticed after coming back, was that after a very long time, I felt so much more human again, complete with feelings of hope, excitement and gratefulness, and much less like the numb, planning/problem-solving machine that I had become. I remember sitting with my lunch at a rest point, thinking gleefully about how free and at peace I had felt during the last 4 days - no plans to execute, no instructions to follow, no lists to make, no calendars to book. I felt so normal again that I wondered what the hell had been making me so damn miserable all of last year.
+I came back from Kuari Pass just a week ago, after a whole year of burnout, isolation, and physical, emotional & spiritual exhaustion. [There’s something about nature](https://greatergood.berkeley.edu/article/item/how_nature_helps_us_heal), combined with the physical exertion of a trek, that can somehow thaw long frozen corners of our hearts. Back from the trek, I felt so much more human again, complete with feelings of hope, excitement and gratefulness, and much less like the numb, planning/problem-solving machine that I had become. I remember sitting with my lunch at a very silent rest point on the last day of the trek, thinking gleefully about how free and at peace I had felt during the last 4 days - no plans to hatch, no instructions to follow, no lists to make, no calendars to book. I wondered what on earth had been making me so damn miserable all of last year.
 
 
 <style>.embedtool {position: relative;height: 0;padding-top: 56%;overflow: hidden;max-width: 100%;} .embedtool iframe, .embedtool object, .embedtool embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .embedtool .fluid-vids {position: initial !important}</style>
@@ -44,7 +44,7 @@ I am guilty of having used travel to run away from things in my life, so for a f
 
 ![Walking on a ridge through wind and snow on the Kuari Pass Trek.](/assets/IMG_1552.jpg "Walking on a ridge through wind and snow on the Kuari Pass Trek.")
 
-Everytime I have come back from a long trek, I have in some way re-examined my life and made changes to it. Coming back home, I’ve taken a long enough break from my life to view things with a fresh set of eyes, and suddenly things look not as impossible as they seemed before. Running away from things is just what I’ve needed at times.
+After every long trek, I have in some way re-examined my life and made changes to it. You get to view things with a fresh set of eyes, and suddenly they look not as impossible as they seemed before. Running away, or rather, getting this distance from my day to day is just what I’ve needed at times in my life.
 
 ### Trekkers are an amazing, inspiring bunch
 
@@ -56,13 +56,13 @@ And some of them end up becoming your friends, which is, of course, invaluable.
 
 ### The views are to die for
 
-My words won’t do justice here - I’ll leave you with a bunch of photos and videos to let you see what I saw. And if you haven’t trekked before and still read till here, I wish you good luck on your next trail, wherever that takes you! :) 
+My words won’t do justice here - I’ll leave you with a bunch of photos and videos to let you see what I saw. And if you haven’t trekked before and still read till here, I hope I inspired you to plan for one, and I wish you good luck on your trail, wherever that takes you! :) 
 
 --------------------------
 
-Below is a processed image of the night sky on a Rupin Pass campsite. The sky didn’t look exactly like this - the Milky Way was much fainter - but it was still the most star filled sky I had ever seen!
+This is an of the night sky on a Rupin Pass campsite. The sky didn’t look exactly like this - the Milky Way was much fainter - but it was still the most star filled sky I had ever seen!
 
-![A starry October sky seen from the Rupin Pass Trail](/assets/IMG_2080.jpg "A starry October sky seen from the Rupin Pass Trail")
+![A starry October sky seen from the Rupin Pass Trail](/assets/IMG_2080.jpg "Who cares if one more light goes out? Well I do.")
 
 ---------------------------
 
