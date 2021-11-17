@@ -44,7 +44,7 @@ I am guilty of having used travel to run away from things in my life, so for a f
 
 ![Walking on a ridge through wind and snow on the Kuari Pass Trek.](/assets/IMG_1552.jpg "Walking on a ridge through wind and snow on the Kuari Pass Trek.")
 
-After every long trek, I have in some way re-examined my life and made changes to it. You get to view things with a fresh set of eyes, and suddenly they look not as impossible as they seemed before. Running away, or rather, getting this distance from my day to day is just what I’ve needed at times in my life.
+After every long trek, I have in some way re-examined my life and made changes to it. You get to view things with a fresh set of eyes, and suddenly they look not as impossible as they seemed before. Running away, or rather, getting this distance from my day to day - is just what I’ve needed at times in my life.
 
 ### Trekkers are an amazing, inspiring bunch
 
