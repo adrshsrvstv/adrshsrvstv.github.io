@@ -40,7 +40,7 @@ I came back from Kuari Pass just a week ago, after a whole year of burnout, isol
 
 > In order to understand the world, one has to turn away from it on occasion.
 
-I am guilty of having used travel to run away from things in my life, so for a few years I was wary of letting trekking become an escape route. I am wiser now, and I realize treks make excellent pit stops for me. They break up all structure in your life so starkly that you are left with nothing to hide behind - you can’t read news, check your mail, grab a smoke, binge on Netflix, binge read books, scroll through Instagram, surf reddit, switch on the hotel TV, or indulge in whatever your drug of choice is. Treks let you run away from your life for a bit, but not from yourself.
+I am guilty of having travelled to run away from things, so for the first couple of years I was cautious to not let treks become an escape route - restricting them to once a year events. I am wiser now, and I realize treks make excellent pit stops for me. They break up all structure in your life so starkly that you are left with nothing to hide behind - you can’t read news, check your mail, grab a smoke, binge on Netflix, binge read books, scroll through Instagram, surf reddit, switch on the hotel TV, or indulge in whatever your drug of choice is. Treks let you run away from your life for a bit, but not from yourself.
 
 ![Walking on a ridge through wind and snow on the Kuari Pass Trek.](/assets/IMG_1552.jpg "Walking on a ridge through wind and snow on the Kuari Pass Trek.")
 
