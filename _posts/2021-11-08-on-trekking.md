@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What We Talk About When We Talk About Trekking"
+title: "On Trekking"
 description: "On why I trek, and why you should too!"
 date: 2021-11-08
 tags: [life, trekking]
