@@ -5,7 +5,7 @@
 # Basic
 name:               "Adarsh Srivastava's Blog"
 
-description:        "Adarsh Srivastava's personal blog and portfolio."
+description:        "Adarsh Srivastava's personal blog."
 
 author:             
 #  facebook:         adarsh0112
@@ -16,7 +16,7 @@ author:
   email:            hi@adrshsrvstv.com
   
 copyright:
-  year:             2021
+  year:             2023
   name:             Adarsh Srivastava
 
 # Google-analytics
@@ -61,8 +61,8 @@ nav:
     url:            "/projects"
   - name:           "cv"
     url:            "/assets/docs/resume.pdf"
-  - name:           "books"
-    url:            "https://www.goodreads.com/adrshsrvstv"
+  # - name:           "books"
+  #   url:            "https://www.goodreads.com/adrshsrvstv"
 
 # Sass
 sass:
